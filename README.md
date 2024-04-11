@@ -20,7 +20,7 @@ git clone https://github.com/Aditya-Ranjan1234/Anime_Finder.git
 2. Navigate into the project directory:
 
 ```bash
-cd anime-finder
+cd Anime_Finder
 ```
 
 3. Install dependencies:
