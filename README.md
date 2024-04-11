@@ -34,7 +34,7 @@ npm install
 To start the application, run the following command:
 
 ```bash
-nodemon injex.js
+nodemon index.js
 ```
 
 The application will start running on `http://localhost:3000` by default. You can access it through your web browser.
